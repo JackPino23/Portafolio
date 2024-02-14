@@ -1,0 +1,79 @@
+body{ 
+    background-color: black;
+    background-image: url(./images/fondo.png);
+    background-position: 100%;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover{
+    color: skyblue;
+}
+
+
+
+#titulo  {
+    color: white;
+    font-size: 170px;
+}
+
+#subtitulo {
+    color: skyblue;
+    font-size: 40px;
+    letter-spacing: 21px;
+}
+#sobre-mi {
+    padding-top: 180px;
+    text-decoration: none;
+}
+
+#sobre-mi h2 {
+    color: skyblue;
+    text-align: end;
+    font-size: 60px;
+    letter-spacing: 10px;
+
+}
+
+#sobre-mi p {
+    color: white;
+    text-align: end;
+    padding-left: 360px;
+    font-size: 22px;
+}
+#sobre-mi ul {
+    list-style: none;
+    padding-left: 0;
+    color: white;
+    font-size: 22px;
+}
+
+#sobre-mi h3 {
+    color: skyblue;
+    font-size: 60px;
+    letter-spacing: 10px;
+    padding-top: 60px;
+
+}
+
+#contacto {
+    padding-top: 60px;
+    text-decoration: none;
+}
+
+#contacto h2 {
+    color: skyblue;
+    text-align: end;
+    font-size: 60px;
+    letter-spacing: 10px;
+
+}
+
+#contacto p {
+    color: white;
+    text-align: end;
+    padding-left: 360px;
+    font-size: 22px;
+}
